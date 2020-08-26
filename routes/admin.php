@@ -11,7 +11,9 @@
 |
 */
 
-Route::get('/admin', function () {
-    return 'Hello Admin';
-});
+// use Illuminate\Routing\Route;
 
+
+// Route::get('/admin', function () {
+//     return 'Hello Admin';
+// });
